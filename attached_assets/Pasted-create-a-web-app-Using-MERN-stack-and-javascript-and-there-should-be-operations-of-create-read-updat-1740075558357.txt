@@ -1,0 +1,19 @@
+create a web app Using MERN stack and javascript and there should be operations of create read update delete CRUD and the project is journal writing web app where user login user creation password and login facility and user authentication should work properly and there after login teher should be option of creatig new journal and in the left there should be menus in left panel when opening left panel it shows the file structure and there should be option of creating folder and creating new journal or basically new file in the folder proper heirarchy and there shoul dbe option of importing journal and exporting journal and journal should be properly imported and exported with proper folder and zip file and the journal should be automatically come with date and time like diary writing format and there should be option in the left while in the left menu that create a web journal app with all proper functionality of user and login and all the proper functionlaity of storing import export and also creation ask for type of journal and also journals storing location and also give all types of journal like daily journal casual journal and there should also be separate option for note taking
+
+i want to make it a proper writing all in one app where all the daily causal journal meaning ful journal like gratitude jurnal and self inpoorvement journal and personal note taking is there with user of Proper MERN and also CRUD operations and javascript and CSS and React and it should be courful modern interactive professional ready product industry ready web app and there should be all the functionality related to writing importing exporting and all types of writing and all users creation storage and also sharing also so teher should be separate section of shared files forlder or journal or note and homescreen should be beatiful and there should be a separatye option on home sof stats or dashboard and the home should be moder showing files and optoion for creating file
+
+refer to websites for idea ui interface react and other functionality and features
+https://www.reflection.app/
+https://penzu.com/
+https://journey.cloud/
+
+user login is working but it should be full functional and proper login which shows minimum required characters or conditions for password and also make the user login logot password authentication proper with more detailed working functionality
+
+and then make all the functions of journal like proper working industrial grade ready app and after doing all this then only ask me anything before that dont ask me anything
+
+also makr the journal more user interactive and natural and modern like in the reflection.app see how beatiful the ui ux react and css is make like that only make it intutive colorful and more functional and usable and problem solving and improve the ui ux interface and frontend with backeend functionality a lot
+
+okay now work in functionality and database and backend and frontened and also make use of proper react and also change UI completely from login page to everything and also https://www.reflection.app/ refer for frontent functinlaity backend and UI react and css and make everything with all looking frontend and all the backend fucntionality and make thi sweb app more intuative and make everything working then only ask me
+
+refer these images for ui ux and also the backend is not working
+by refering these images make everything in images and give all features and functions and make backend fully working and then improve UI UX react CSS like the images and then ask me
