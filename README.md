@@ -2,8 +2,6 @@
 
 Journalize is a comprehensive digital journaling web application built with the MERN stack, offering a rich text editing experience, intelligent file organization, and seamless user authentication.
 
-![Journalize Screenshot](attached_assets/image_1740105592173.png)
-
 ## Features
 
 ### Authentication & Security
@@ -62,32 +60,16 @@ Journalize is a comprehensive digital journaling web application built with the 
 
 ## Technologies Used
 
-### Frontend
 - React
 - TypeScript
-- TanStack Query (React Query)
 - Tailwind CSS
-- shadcn/ui components
-- TipTap rich text editor
-- Lucide React icons
-- React Hook Form
-- Zod validation
-- Wouter for routing
-
-### Backend
 - Node.js
 - Express.js
-- MemoryStore for session storage
-- Passport.js for authentication
-- Zod for schema validation
-- TypeScript
-
-### Development Tools
+- Javascript
+- HTML
+- CSS
 - Vite
-- TypeScript
-- ESLint
-- Prettier
-- PostCSS
+- PostgreSQL
 
 ## Setup and Installation
 
@@ -168,11 +150,3 @@ The application will be available at `http://localhost:5000`
 - Export your journals as JSON files
 - Import journals from JSON files
 - Attach documents and images to your entries
-
-## Contributing
-
-Contributions are welcome! Please read the contributing guidelines before making any changes.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
